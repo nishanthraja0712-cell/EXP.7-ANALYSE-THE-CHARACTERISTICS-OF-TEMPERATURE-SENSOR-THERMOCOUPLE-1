@@ -28,14 +28,20 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## CIRCUIT dIAGRAM:
 
-<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+<img width="951" height="604" alt="WhatsApp Image 2026-05-28 at 3 12 50 PM" src="https://github.com/user-attachments/assets/e3f3e642-d3bc-448c-b50b-a0a43b925def" />
+<img width="939" height="694" alt="WhatsApp Image 2026-05-28 at 3 12 49 PM (3)" src="https://github.com/user-attachments/assets/6f757a43-c283-4276-8663-1ccc91008806" />
+<img width="522" height="231" alt="WhatsApp Image 2026-05-28 at 3 12 49 PM (2)" src="https://github.com/user-attachments/assets/ff5d9989-d7be-4e74-9144-bac3d9eee627" />
+<img width="525" height="236" alt="WhatsApp Image 2026-05-28 at 3 12 49 PM (1)" src="https://github.com/user-attachments/assets/b41a0df1-2bb5-4dbb-8272-d11b3b7ba24b" />
+<img width="514" height="241" alt="WhatsApp Image 2026-05-28 at 3 12 49 PM" src="https://github.com/user-attachments/assets/c7c62211-7c95-417a-bc6d-854b769e2a3d" />
+<img width="523" height="237" alt="WhatsApp Image 2026-05-28 at 3 12 48 PM" src="https://github.com/user-attachments/assets/12677f1c-3505-4ef0-b02a-adae58775b55" />
 
 ## output:
 
-Thermocouple type:
+Thermocouple type: Nickel
 
-Reference Temperature:
+Reference Temperature: 100
 
-Output temperature: 
+Output temperature: 108.06,249.18,234.4
 
 ## Result: 
+The working principle of thermocouple is understand.
